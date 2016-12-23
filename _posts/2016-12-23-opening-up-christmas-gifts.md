@@ -14,7 +14,13 @@ custom_sidebar:
   - none
 tags: [ ]
 categories:
+  - Christmas
+  - Elijah
+  - Holidays
+  - Josh
+  - Kayla
   - Uncategorized
+  - Videos
 ---
 We celebrated Christmas as a family a couple of days early today. On December 23, the kids woke up to find gifts under the tree. Elijah discovered a brand-new kitchen sitting in the living room.
 
