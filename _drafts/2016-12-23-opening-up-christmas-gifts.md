@@ -13,4 +13,6 @@ tags: [ ]
 categories:
   - Uncategorized
 ---
-We celebrated Christmas as a family a couple of days early today. On December
+We celebrated Christmas as a family a couple of days early today. On December 23, the kids woke up to find gifts under the tree. Elijah discovered a brand-new kitchen sitting in the living room.
+
+While the kitchen was the "flagship" gift, Elijah's gifts consisted of several PJ Masks characters/vehicles, a Lightsaber, and chocolate. Josh received a new game for his DS, a tablet stand, and socks. Kayla rec
