@@ -2,16 +2,22 @@
 ID: 187
 post_title: Ramsey Schoolhouse
 author: Jon Morgan
-post_date: 2017-01-02 03:18:15
+post_date: 2017-01-02 03:23:49
 post_excerpt: ""
 layout: post
-permalink: 'http://www.shepherdhistory.org/morganfamily?p=187&preview=true&preview_id=187'
-published: false
+permalink: >
+  http://www.shepherdhistory.org/morganfamily/2017/01/02/ramsey-schoolhouse/
+published: true
 pf_no_feed_alert:
   - "0"
+pf_forward_to_origin:
+  - no-forward
+custom_sidebar:
+  - sidebar-single
 tags: [ ]
 categories:
-  - Uncategorized
+  - Family
+  - History
 ---
 <h1>Ramsey Schoolhouse</h1>
 Here are photos of the Ramsey one room schoolhouse 1954, 1956. My mom and my Uncle Don are in both photo.
