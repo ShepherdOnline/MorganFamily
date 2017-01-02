@@ -13,7 +13,7 @@ pf_no_feed_alert:
 pf_forward_to_origin:
   - no-forward
 custom_sidebar:
-  - sidebar-single
+  - none
 top_term:
   - "58"
 tags: [ ]
