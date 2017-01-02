@@ -13,9 +13,11 @@ tags: [ ]
 categories:
   - Uncategorized
 ---
-<h1></h1>
+<h1>Ramsey Schoolhouse</h1>
 Here are photos of the Ramsey one room schoolhouse 1954, 1956. My mom and my Uncle Don are in both photo.
 
-<img class="wp-image-188" src="http://www.shepherdhistory.org/morganfamily/wp-content/uploads/sites/2/2017/01/word-image.jpg" />
+<img class="wp-image-190" src="http://www.shepherdhistory.org/morganfamily/wp-content/uploads/sites/2/2017/01/word-image-2.jpg" />
 
-<img class="wp-image-189" src="http://www.shepherdhistory.org/morganfamily/wp-content/uploads/sites/2/2017/01/word-image-1.jpg" />
+<img class="wp-image-191" src="http://www.shepherdhistory.org/morganfamily/wp-content/uploads/sites/2/2017/01/word-image-3.jpg" />
+
+&nbsp;
