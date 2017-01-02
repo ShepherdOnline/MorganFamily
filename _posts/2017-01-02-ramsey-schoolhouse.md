@@ -43,4 +43,4 @@ Here are photos of the Ramsey one room schoolhouse 1954, 1956. My mom and my Unc
 
 <img class="wp-image-191" src="http://www.shepherdhistory.org/morganfamily/wp-content/uploads/sites/2/2017/01/word-image-3.jpg" />
 
-&nbsp;
+| <a href="https://docs.google.com/document/d/1HnsxUi5GcBorWT8VRmakae6XDTzcWfNL545WBbT2ZTk/edit?usp=sharing">Edit in Google Docs</a> |
